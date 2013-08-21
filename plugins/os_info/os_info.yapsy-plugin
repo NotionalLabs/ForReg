@@ -1,0 +1,9 @@
+[Core]
+Name = Operating System Info Reporter
+Module = os_info
+
+[Documentation]
+Author = James E. Hung
+Version = 0.1a
+Website = www.notional-labs.com
+Description = Generates a report of the OS's basic details, such as Product Name, version, etc...

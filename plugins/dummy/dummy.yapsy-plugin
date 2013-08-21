@@ -1,0 +1,9 @@
+[Core]
+Name = Dummy Plugin
+Module = dummy
+
+[Documentation]
+Author = James E. Hung
+Version = 0.1a
+Website = www.notional-labs.com
+Description = Dummy plugin for testing.
